@@ -1,0 +1,15 @@
+INSTRUÇÕES PARA ADICIONAR SUA FOTO
+===================================
+
+Por favor, salve a imagem do seu perfil nesta pasta com o nome:
+profile-photo.jpg
+
+A imagem já está configurada no HTML e CSS do portfolio.
+
+Formato recomendado:
+- Nome do arquivo: profile-photo.jpg
+- Formato: JPG ou PNG
+- Tamanho recomendado: 800x800 pixels (quadrado)
+- Qualidade: Alta resolução para melhor visualização
+
+Após salvar a imagem, o portfolio estará completo e pronto para uso!
